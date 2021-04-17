@@ -5,11 +5,9 @@ import librosa.display
 import numpy as np
 import pandas as pd
 import pickle
-from sklearn.preprocessing import LabelEncoder
 import soundfile
 from pydub import AudioSegment
 import datetime
-from sklearn.metrics import accuracy_score
 
 
 class EmotionClassifier():
