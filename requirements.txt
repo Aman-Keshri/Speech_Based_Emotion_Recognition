@@ -1,0 +1,12 @@
+Flask==1.1.1
+Flask-Cors==3.0.4
+Jinja2==2.11.2
+DateTime==4.3
+pydub==0.25.1
+SoundFile==0.10.3
+pickle5==0.0.11
+pandas==1.2.4
+numpy==1.20.2
+librosa==0.8.0
+Wave==0.0.2
+PyAudio==0.2.11
